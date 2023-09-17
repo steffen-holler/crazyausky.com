@@ -1,0 +1,125 @@
+body {
+    background-color: #795E43;
+    text-emphasis-color: #F5F5D9;
+    max-width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    /*
+    #795E43 main fur
+    #f5f5d9 light fur
+    #2E1D0B dark fur
+    #252525 nose
+    #857901 eyes
+    */
+}
+h1{
+    color:#2e1d0b;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    Padding: 10px 0px 0px 0px
+}
+h2{
+    color:#2e1d0b;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    Padding: 10px 10px 0px 10px;
+}
+h3{
+    color:#2e1d0b;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    Padding: 10px 10px 0px 10px;
+}
+h4{
+    color:#2e1d0b;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    Padding: 10px 10px 0px 10px;
+}
+h5{
+    color:#2e1d0b;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+    Padding: 10px 10px 0px 10px;
+}
+h6{
+    color:#2e1d0b;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    Padding: 10px 10px 0px 10px;
+}
+a{
+    color:#095B10;
+    font-size: small;
+    text-decoration: underline;
+}
+.content-bubble{
+    background-color: #f5f5d9;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 15px;
+    border-radius: 10px;
+    color: #252525;
+    margin: 10px;
+}
+
+.header-bubble{
+    background-color: #f5f5d9;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px 10px 0px 0px;
+    margin: 10px 10px 0px 10px;
+    color: #252525;
+    display: block;
+    background-image: url('background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: center;
+}
+.about-text{
+    background-color: #f5f5d9;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 15px 5px 15px;
+    border-radius: 0px 0px 10px 10px;
+    margin: 0px 10px 10px 10px;
+    color: #252525;
+    display: block;
+}
+
+.link-item{
+    padding: 5px;
+    margin: 5px;
+    display:block;
+    border-radius: 5px;
+    border-color: #795E43;
+    border-width: 1px;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.icon-pic{
+    border-radius: 5px;
+    background-color: #2e1d0b;
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
